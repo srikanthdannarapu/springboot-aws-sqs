@@ -1,0 +1,10 @@
+cloud:
+  aws:
+    region:
+      static: ap-south-1
+      auto: false
+    credentials:
+      access-key: AKIA462V5BLIBRPM3EXR
+      secret-key: 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
+    end-point:
+      uri: https://sqs.ap-south-1.amazonaws.com/890849004240/srikanth-queue
